@@ -376,5 +376,14 @@ a:hover {
 .button.primary {
   background-color: #c38d9e;
 }
+.menu-button {
+  margin-top: 20px;
+}
+.menu-icon-padded {
+  margin: 10px;
+}
+.front-page {
+  margin-top: 50px;
+}
 
 
